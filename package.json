@@ -1,0 +1,12 @@
+{
+  "name": "xuicommon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://abais@stash.xactlycorporation.local:7990/scm/incent/xuicommon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
